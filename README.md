@@ -1,5 +1,14 @@
 
 # Money Transfer REST API
+## Requirements:
+Design a simple backend application that will handle the basics of an account manager and money transfer tool. The users should be able to:
+- Create a new Account
+- Delete an existing Account
+- Deposit and Withdraw money from an Account
+- Display all available Accounts
+- Transfer money between Accounts.
+
+The application should work in an multi-threaded environment and should validate the input data where needed.
 
 ## Tools and libraries used:
 - Java 8 as programming language
